@@ -1,4 +1,4 @@
-# Hi, I'm Nikcet 👋
+# Hi, I'm Mstislav 👋
 
 **Fullstack Developer | Cloud & DevOps Enthusiast**
 
