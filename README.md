@@ -21,8 +21,8 @@ I'm a passionate Fullstack Developer with hands-on experience across the entire 
   To add a desired gift to your list, simply paste the product link from any marketplace—the product information will be parsed automatically from the marketplace.  
   For data parsing, I utilized SeleniumBase to extract product details reliably and efficiently.
 
-> **ai-chat**
-> [ai-chat][] is a RAG-API
+- **ai-chat**
+  [ai-chat][] is a RAG-API
 
 ---
 
