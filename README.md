@@ -22,7 +22,7 @@ I'm a passionate Fullstack Developer with hands-on experience across the entire 
   For data parsing, I utilized SeleniumBase to extract product details reliably and efficiently.
 
 - **ai-chat**  
-  [ai-chat](https://github.com/Nikcet/ai_chat) is a RAG API (FastAPI) that provides business-focused AI assistants. Companies integrate this API into their chat platforms to deliver AI-powered customer support. Key features:  
+  [ai-chat](https://github.com/Nikcet/ai_chat) is a RAG API (**FastAPI**) that provides business-focused AI assistants. Companies integrate this API into their chat platforms to deliver AI-powered customer support. Key features:  
   - Upload company documents (PDFs, manuals, specs) for AI context
   - Automatic vectorization and storage in **Azure AI Search**  
   - Context-aware responses using retrieved document snippets (~2s response time)  
