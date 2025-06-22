@@ -1,6 +1,6 @@
 # Hi, I'm Mstislav 👋
 
-**Fullstack Developer | Cloud & DevOps Enthusiast**
+**Fullstack Developer**
 
 ---
 
